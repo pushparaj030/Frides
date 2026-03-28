@@ -1,22 +1,16 @@
 import type { NextConfig } from "next";
 
-const repoName = "Frieds";
+const isProd = process.env.NODE_ENV === "production";
 
 const nextConfig: NextConfig = {
   output: "export",
 
   images: {
     unoptimized: true,
-    remotePatterns: [
-      {
-        protocol: "https",
-        hostname: "images.unsplash.com",
-      },
-    ],
   },
 
-  basePath: process.env.NODE_ENV === "production" ? `/${repoName}` : "",
-  assetPrefix: process.env.NODE_ENV === "production" ? `/${repoName}/` : "",
+  basePath: isProd ? "/Frieds" : "",
+  assetPrefix: isProd ? "/Frieds/" : "",
 };
 
 export default nextConfig;
