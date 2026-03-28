@@ -2,4 +2,4 @@
 2:I[39756,["/friedchicken/_next/static/chunks/082pzyr2tscsq.js","/friedchicken/_next/static/chunks/0d3tkj33oycf2.js"],"default"]
 3:I[37457,["/friedchicken/_next/static/chunks/082pzyr2tscsq.js","/friedchicken/_next/static/chunks/0d3tkj33oycf2.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"7y4m61ZrZq4pC32le6oTC"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"oH22OyfkWxFCgd41Zbc4H"}

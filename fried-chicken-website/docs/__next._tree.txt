@@ -1,3 +1,3 @@
-:HL["/friedchicken/_next/static/chunks/0d.xz6l5a.zey.css","style"]
+:HL["/friedchicken/_next/static/chunks/0j8x3y6um0~aa.css","style"]
 :HL["/friedchicken/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"7y4m61ZrZq4pC32le6oTC"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"oH22OyfkWxFCgd41Zbc4H"}
